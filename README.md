@@ -26,8 +26,6 @@ Go adalah bahasa pemrograman yang dikembangkan oleh Google, terkenal karena kese
 
 ---
 
----
-
 ## 📖 **Konten Modul**
 
 Silakan akses modul-modul praktikum melalui link wiki berikut:
